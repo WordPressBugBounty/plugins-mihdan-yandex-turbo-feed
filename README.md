@@ -1,0 +1,1 @@
+# plugins-mihdan-yandex-turbo-feed
